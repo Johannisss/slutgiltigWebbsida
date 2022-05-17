@@ -139,7 +139,7 @@ footer ul {
 
 #parallax1 {
   display: flex;
-  background-image: url("../images/parallax1.jpeg");
+  background-image: url("../images/parallax1.webp");
   min-height: 1200px;
   justify-content: center;
 }
@@ -147,7 +147,7 @@ footer ul {
 #parallax2 {
   position: relative;
   top: calc(100vw * -0.1763269807);
-  background-image: url("../images/parallax2.jpg");
+  background-image: url("../images/parallax2.webp");
   height: 1400px;
 }
 
@@ -231,7 +231,7 @@ footer ul {
   position: relative;
   height: 1200px;
   top: calc(100vw * -0.1763269807);
-  background-image: url(../images/parallax3.jpeg);
+  background-image: url('../images/parallax3.webp');
 }
 
 #info3Platt {
@@ -266,7 +266,7 @@ footer ul {
   position: relative;
   height: 1200px;
   top: calc(100vw * -0.1763269807 - 100vw);
-  background-image: url(../images/parallax4.jpeg);
+  background-image: url('../images/parallax4.webp');
 }
 
 #frontpageFooter {
