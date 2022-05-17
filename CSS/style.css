@@ -195,7 +195,7 @@ footer ul {
   height: 100vw;
   width: 100vw;
   border-radius: 100%;
-  top: calc(100vw * -0.1763269807 - 50vw - 1300px);
+  top: calc(100vw * -0.1763269807 - 50vw - 1200px);
   background-color: whitesmoke;
   justify-content: center;
 }
