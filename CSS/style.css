@@ -24,11 +24,13 @@ h1 {
 h2 {
   font-size: 46px;
   color: black;
+  background-color: transparent;
 }
 
 p {
   font-size: 18px;
   color: black;
+  background-color: transparent;
 }
 
 a {
