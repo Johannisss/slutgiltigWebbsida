@@ -406,6 +406,7 @@ footer ul {
   .parallax {
     min-height: 800px !important;
     height: 800px !important;
+    max-width: 1000px !important;
   }
 
   #info2Snurr {
