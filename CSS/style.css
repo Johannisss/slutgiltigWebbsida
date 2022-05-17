@@ -268,7 +268,7 @@ footer ul {
 
 #parallax4  {
   position: relative;
-  height: 1200px;
+  height: 1000px;
   top: calc(100vw * -0.1763269807 - 100vw);
   background-image: url('../images/parallax4.webp');
 }
